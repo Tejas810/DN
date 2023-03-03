@@ -1,0 +1,15 @@
+Index: app/src/main/res/drawable/profilebackground.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/profilebackground.xml b/app/src/main/res/drawable/profilebackground.xml
+new file mode 100644
+--- /dev/null	(date 1677853834289)
++++ b/app/src/main/res/drawable/profilebackground.xml	(date 1677853834289)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<shape xmlns:android="http://schemas.android.com/apk/res/android">
++    <gradient android:startColor="#009FFD" android:endColor="#2A2A72" android:angle="40"/>
++</shape>
+\ No newline at end of file
