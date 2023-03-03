@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174308388529",
+    "firebase_url": "https://deliverynest1234-default-rtdb.firebaseio.com",
+    "project_id": "deliverynest1234",
+    "storage_bucket": "deliverynest1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174308388529:android:2a6396f19b9429b25ffc90",
+        "android_client_info": {
+          "package_name": "com.example.deliverynest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

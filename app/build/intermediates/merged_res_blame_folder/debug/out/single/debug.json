@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_githubicon.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\githubicon.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_downarrow.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\downarrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_roundcorners.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\roundcorners.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_telegramicon.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\telegramicon.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_tejasimage.jpeg.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\tejasimage.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_mail.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_circularbackground.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\circularbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\raw_profileanimation.json.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\raw\\profileanimation.json"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\phone.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-33:/layout_activity_about_us.xml.flat",
+        "source": "com.example.deliverynest.app-main-35:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_aboutusbackground.jpg.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\aboutusbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_mainlogo.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\mainlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_customcursor.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\customcursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_username.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\username.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_copyrightsymbol.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\copyrightsymbol.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_create_order.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_create_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_runicon.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\runicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_addicon.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\addicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_kshitijimage.jpeg.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\kshitijimage.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_linkedinicon.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\linkedinicon.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_cardlayout.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\cardlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_curve_background.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\curve_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_payment_page.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_payment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_locationicon.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\locationicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_profile_main.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\profile_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_profileicon.png.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\profileicon.png"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_person2.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\person2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

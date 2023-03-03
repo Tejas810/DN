@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Book_Options">
+        <item>Book a Bike</item>
+        <item>Book Tempo</item>
+        <item>Book Mini Truck</item>
+    </string-array>
+    <string-array name="Landmarks">
+        <item>Nearest Area</item>
+        <item>Adarsh Nagar</item>
+        <item>Aundh</item>
+        <item>Baner</item>
+        <item>Bhandarkar Road</item>
+        <item>Bund Garden</item>
+        <item>Camp</item>
+        <item>Chakan</item>
+        <item>Deccan Gymkhana</item>
+        <item>Dhole Patil Road</item>
+        <item>Dronje</item>
+        <item>Hinjewadi</item>
+        <item>Jangli Maharaj Road</item>
+        <item>Kalyani Nagar</item>
+        <item>Kharadi</item>
+        <item>Koregaon Park</item>
+        <item>NH-04</item>
+        <item>Pimpri-Chichwad</item>
+        <item>Pirangut</item>
+        <item>Pune Station</item>
+        <item>Ranjangaon</item>
+        <item>Ravet</item>
+        <item>Shivaji Nagar</item>
+        <item>Undri</item>
+        <item>Viman Nagar</item>
+        <item>Wakad</item>
+        <item>Aditya Birla Memorial Hospital</item>
+        <item>Aga Khan Palace</item>
+        <item>Amanora Town Center</item>
+        <item>Chaturshringi Temple</item>
+        <item>Dagadu Seth Ganpati Temple</item>
+        <item>Deenanath Mangeshkar Hospital</item>
+        <item>Hardikar Hospital</item>
+        <item>Inorbit Mall Pune</item>
+        <item>Ishanya Mall</item>
+        <item>Jehangir Hospital</item>
+        <item>KEM Hospital Pune</item>
+        <item>Laxmi Road</item>
+        <item>Lohegaon Airport</item>
+        <item>Osho Commune International</item>
+        <item>Phoenix Market City Pune</item>
+        <item>Pune Junction Railway Station</item>
+        <item>Rajiv Gandhi Zoological Park</item>
+        <item>Ruby Hall Hospital</item>
+        <item>Sahyadri Hospital Yerwada</item>
+        <item>Sancheti Hospital Shivajinagar</item>
+        <item>Saras Baug Temple</item>
+        <item>Seasons Mall</item>
+        <item>Shaniwar Wada</item>
+        <item>Shivajinagar Station</item>
+    </string-array>
+    <string-array name="Order_weight">
+        <item>Upto 1Kg</item>
+        <item>Upto 2kg</item>
+        <item>Upto 5kg</item>
+        <item>Upto 10kg</item>
+    </string-array>
+    <string-array name="PaymentMethods">
+        <item>Cash</item>
+        <item>Net Banking</item>
+        <item>Debit Card</item>
+        <item>Credit Card</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">DeliveryNest</string>
+    <string name="default_web_client_id" translatable="false">174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://deliverynest1234-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">174308388529</string>
+    <string name="google_api_key" translatable="false">AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E</string>
+    <string name="google_app_id" translatable="false">1:174308388529:android:2a6396f19b9429b25ffc90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E</string>
+    <string name="google_storage_bucket" translatable="false">deliverynest1234.appspot.com</string>
+    <string name="project_id" translatable="false">deliverynest1234</string>
+    <style name="Theme.DeliveryNest" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#B6664B</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">#B6664B</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
