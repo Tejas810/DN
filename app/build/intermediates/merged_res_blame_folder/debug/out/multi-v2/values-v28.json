@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.deliverynest.app-mergeDebugResources-31:/values-v28/values-v28.xml",
+            "outputFile": "com.example.deliverynest.app-mergeDebugResources-36:/values-v28/values-v28.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\9692b2d81c263cb7647f941b5981f2a2\\transformed\\material-1.7.0\\res\\values-v28\\values-v28.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.deliverynest.app-mergeDebugResources-31:/values-port/values-port.xml",
+            "outputFile": "com.example.deliverynest.app-mergeDebugResources-36:/values-port/values-port.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\d51363f6ddde23335da476dd0ed5ea88\\transformed\\appcompat-1.5.0\\res\\values-port\\values-port.xml",

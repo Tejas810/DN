@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.deliverynest.app-mergeDebugResources-31:/values-ur/values-ur.xml",
+            "outputFile": "com.example.deliverynest.app-mergeDebugResources-36:/values-ur/values-ur.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\5b64ca02145a4d2a135477066cdefd90\\transformed\\play-services-basement-18.0.0\\res\\values-ur\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "147",
-                        "endOffsets": "342"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4408",
-                        "endColumns": "151",
-                        "endOffsets": "4555"
-                    }
-                },
                 {
                     "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\d51363f6ddde23335da476dd0ed5ea88\\transformed\\appcompat-1.5.0\\res\\values-ur\\values-ur.xml",
                     "from": {
@@ -54,6 +37,23 @@
                         "endLines": "5,33,34,35,36,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107",
                         "endColumns": "12,77,99,118,82,64,92,69,58,89,68,57,68,59,63,111,58,58,54,74,122,79,83,132,81,80,86,57,55,65,74,79,84,66,74,76,63,93,69,88,92,73,74,89,55,66,83,83,61,63,62,99,106,93,108,61,59,79",
                         "endOffsets": "304,3109,3209,3328,3411,5715,5808,5878,5937,6027,6096,6154,6223,6283,6347,6459,6518,6577,6632,6707,6830,6910,6994,7127,7209,7290,7377,7435,7491,7557,7632,7712,7797,7864,7939,8016,8080,8174,8244,8333,8426,8500,8575,8665,8721,8788,8872,8956,9018,9082,9145,9245,9352,9446,9555,9617,9677,9757"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\bb2407d419e768075aaf287775f658a0\\transformed\\play-services-basement-18.1.0\\res\\values-ur\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "147",
+                        "endOffsets": "342"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4408",
+                        "endColumns": "151",
+                        "endOffsets": "4555"
                     }
                 },
                 {

@@ -1,198 +1,682 @@
 [
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_no_order_found.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/no_order_found.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_bevanregular.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/bevanregular.ttf"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_layout_customization.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/layout_customization.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_bell_icon.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/bell_icon.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_githubicon.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\githubicon.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_register_icon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/register_icon.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_startbutton.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/startbutton.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_downarrow.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\downarrow.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_copyrightsymbol.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/copyrightsymbol.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_roundcorners.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\roundcorners.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_splashicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/splashicon.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_secondonboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/secondonboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_telegramicon.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\telegramicon.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_orderhistorydel.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/orderhistorydel.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_fourth_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/fourth_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_tejasimage.jpeg.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\tejasimage.jpeg"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_third_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/third_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_mail.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\mail.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_profileanimation.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/profileanimation.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_circularbackground.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\circularbackground.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_drawer.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/drawer.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\raw_profileanimation.json.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\raw\\profileanimation.json"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_phone.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/phone.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_indian_currency_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/indian_currency_icon.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_logout.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\logout.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_user_splash_screen.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_user_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_phone.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\phone.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_roundcorners.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/roundcorners.xml"
     },
     {
-        "merged": "com.example.deliverynest.app-merged_res-33:/layout_activity_about_us.xml.flat",
-        "source": "com.example.deliverynest.app-main-35:/layout/activity_about_us.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_fourth_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/fourth_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_aboutusbackground.jpg.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\aboutusbackground.jpg"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_checked_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/checked_icon.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_mainlogo.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\mainlogo.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.deliverynest.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_logo.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\logo.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_custom_dailog.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/custom_dailog.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_customcursor.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\customcursor.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_username.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/username.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_register_icon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/register_icon.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_username.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\username.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_create_order.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_create_order.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_copyrightsymbol.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\copyrightsymbol.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_setting.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_setting.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_third_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/third_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_person.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\person.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_customcursor.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/customcursor.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_complaints.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_complaints.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_create_order.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_create_order.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_background_main.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/background_main.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_skip_btn.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/skip_btn.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_about_us.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_about_us.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_paytm.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/paytm.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_runicon.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\runicon.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_login_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/login_image.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_addicon.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\addicon.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_custom_radio_selected.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/custom_radio_selected.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_kshitijimage.jpeg.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\kshitijimage.jpeg"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_rate.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_rate.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_linkedinicon.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\linkedinicon.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_fourth_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/fourth_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_cardlayout.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\cardlayout.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_login_screen.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_login_screen.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_edittext_border.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\edittext_border.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_first_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/first_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_third_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/third_onboard.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_curve_background.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\curve_background.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_no_order_found.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/no_order_found.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_activity_payment_page.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\activity_payment_page.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_background_main.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/background_main.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_locationicon.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\locationicon.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-anydpi_next_btn.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-anydpi/next_btn.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\layout_profile_main.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\layout\\profile_main.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_update.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_update.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_profileicon.png.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\profileicon.png"
+        "merged": "com.example.deliverynest.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\drawable_person2.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\drawable\\person2.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_payment_method.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_payment_method.xml"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_profileicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/profileicon.png"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_librarythreeamsoft.otf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/librarythreeamsoft.otf"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_usericon.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/usericon.json"
     },
     {
-        "merged": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\SAI\\.gradle\\daemon\\7.5\\com.example.deliverynest.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_home_icon_menu.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/home_icon_menu.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_logout.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_round_corners.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/round_corners.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_splashicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/splashicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_discount_three.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/discount_three.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_next_green_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/next_green_icon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_second_splash_screen.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_second_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_nexticon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/nexticon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_no_order_found.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/no_order_found.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_baloo.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/baloo.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_user_dashboard.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_user_dashboard.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_third_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/third_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_randolph.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/randolph.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_accountcreated.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/accountcreated.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_custom_radio_text.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/custom_radio_text.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_about_us.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_background_main.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/background_main.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_secondonboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/secondonboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_no_order_found.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/no_order_found.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_recentorder.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/recentorder.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_otpscreen.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/otpscreen.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/menu_main_menu.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_githubicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/githubicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_secondonboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/secondonboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_closeicon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/closeicon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_track.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_track.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_runicon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/runicon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_discount_five.jpg.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/discount_five.jpg"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_back.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/back.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_menu_header.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/menu_header.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_addicon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/addicon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_add_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_splash.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/splash.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_seconscreenbutton.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/seconscreenbutton.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_fourth_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/fourth_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_kshitijimage.jpeg.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/kshitijimage.jpeg"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_person.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/person.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menuheader_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menuheader_image.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/color_bottom_icon_background.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/color/bottom_icon_background.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_recentorder.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/recentorder.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_notoseriftotosemibold.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/notoseriftotosemibold.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_recentorder.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/recentorder.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_person2.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/person2.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_curve_background.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/curve_background.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_custom_radio_normal.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/custom_radio_normal.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_logo.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_recentorder.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/recentorder.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_first_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/first_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_userprofileicon.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/userprofileicon.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_telegramicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/telegramicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_background_main.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/background_main.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_splashone.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/splashone.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_logout.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_logout.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_downarrow.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/downarrow.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_on_boarding_screen.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_on_boarding_screen.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_share.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_share.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_personiconpin.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/personiconpin.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_check.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/check.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_login_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/login_image.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_user_registration.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_user_registration.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_register_icon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/register_icon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_helloapple.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/helloapple.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_recent_order_design.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/recent_order_design.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/anim_botton_anim.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/anim/botton_anim.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_no_order_found.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/no_order_found.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_slides_layout.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/slides_layout.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_sidebar.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/sidebar.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_discount_two.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/discount_two.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_mainlogo.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/mainlogo.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_circularbackground.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/circularbackground.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_twotone_navigate_next_24.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/twotone_navigate_next_24.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_bungeline.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/bungeline.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_no_order_layout.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/no_order_layout.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_tejasimage.jpeg.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/tejasimage.jpeg"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_notoseriftotobold.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/notoseriftotobold.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_splashicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/splashicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_bevanitalic.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/bevanitalic.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_notoseriftotomedium.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/notoseriftotomedium.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxhdpi_third_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxhdpi/third_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_notoseriftotoregular.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/notoseriftotoregular.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_payment_page.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_payment_page.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_first_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/first_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_splashicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/splashicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_loginready.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/loginready.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_secondonboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/secondonboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_register_icon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/register_icon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_notificationbell.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/notificationbell.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_verify_otp.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_verify_otp.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_mail.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/mail.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_locationicon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/locationicon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_fourth_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/fourth_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_loadercustom.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/loadercustom.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_register_icon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/register_icon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/raw_textfinal.json.flat",
+        "source": "com.example.deliverynest.app-main-40:/raw/textfinal.json"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_first_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/first_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-anydpi_skip_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-anydpi/skip_icon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_secondonboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/secondonboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_first_onboard.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/first_onboard.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_discount_one.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/discount_one.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_menu_history.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/menu_history.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_background_main.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/background_main.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_login_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/login_image.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_linkedinicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/linkedinicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_discount_four.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/discount_four.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_edittext_border.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/edittext_border.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_librarythree.otf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/librarythree.otf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_cod.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/cod.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_focus_icon.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/focus_icon.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xhdpi_login_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xhdpi/login_image.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-xxxhdpi_splashicon.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-xxxhdpi/splashicon.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_user_profile.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-hdpi_recentorder.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-hdpi/recentorder.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/layout_activity_order_summary.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/layout/activity_order_summary.xml"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_aboutusbackground.jpg.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/aboutusbackground.jpg"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/font_kizard.ttf.flat",
+        "source": "com.example.deliverynest.app-main-40:/font/kizard.ttf"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable-mdpi_login_image.png.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable-mdpi/login_image.png"
+    },
+    {
+        "merged": "com.example.deliverynest.app-merged_res-38:/drawable_custom_radio_selector.xml.flat",
+        "source": "com.example.deliverynest.app-main-40:/drawable/custom_radio_selector.xml"
     }
 ]

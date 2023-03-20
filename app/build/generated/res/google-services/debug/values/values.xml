@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://deliverynest1234-default-rtdb.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">174308388529</string>
-    <string name="google_api_key" translatable="false">AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E</string>
-    <string name="google_app_id" translatable="false">1:174308388529:android:2a6396f19b9429b25ffc90</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E</string>
-    <string name="google_storage_bucket" translatable="false">deliverynest1234.appspot.com</string>
-    <string name="project_id" translatable="false">deliverynest1234</string>
+    <string name="default_web_client_id" translatable="false">620393763559-0it08km2tog2bvetdo29ovq4verud17u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://deliverynest-3998c-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">620393763559</string>
+    <string name="google_api_key" translatable="false">AIzaSyCXH6MfFRcujdeymAQTvZdV4mlJ3BHV8Uc</string>
+    <string name="google_app_id" translatable="false">1:620393763559:android:cac31f013209e1d0ee8842</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXH6MfFRcujdeymAQTvZdV4mlJ3BHV8Uc</string>
+    <string name="google_storage_bucket" translatable="false">deliverynest-3998c.appspot.com</string>
+    <string name="project_id" translatable="false">deliverynest-3998c</string>
 </resources>

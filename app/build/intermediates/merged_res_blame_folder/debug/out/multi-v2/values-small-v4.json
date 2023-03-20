@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.deliverynest.app-mergeDebugResources-31:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.example.deliverynest.app-mergeDebugResources-36:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SAI\\.gradle\\caches\\transforms-3\\9692b2d81c263cb7647f941b5981f2a2\\transformed\\material-1.7.0\\res\\values-small-v4\\values-small-v4.xml",

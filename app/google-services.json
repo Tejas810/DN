@@ -1,34 +1,79 @@
 {
   "project_info": {
-    "project_number": "174308388529",
-    "firebase_url": "https://deliverynest1234-default-rtdb.firebaseio.com",
-    "project_id": "deliverynest1234",
-    "storage_bucket": "deliverynest1234.appspot.com"
+    "project_number": "620393763559",
+    "firebase_url": "https://deliverynest-3998c-default-rtdb.firebaseio.com",
+    "project_id": "deliverynest-3998c",
+    "storage_bucket": "deliverynest-3998c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:174308388529:android:2a6396f19b9429b25ffc90",
+        "mobilesdk_app_id": "1:620393763559:android:cac31f013209e1d0ee8842",
         "android_client_info": {
-          "package_name": "com.example.deliverynest"
+          "package_name": "com.deliverynest"
         }
       },
       "oauth_client": [
         {
-          "client_id": "174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com",
+          "client_id": "620393763559-ec6ggle3pm39rr8t5qr3l6n4umvnuc46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverynest",
+            "certificate_hash": "55db02898c4176d597ecf8ead54fd5bb16c38839"
+          }
+        },
+        {
+          "client_id": "620393763559-0it08km2tog2bvetdo29ovq4verud17u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyATwqxMeJaEhjtnC-FIUOchR5yAMHJ0l6E"
+          "current_key": "AIzaSyCXH6MfFRcujdeymAQTvZdV4mlJ3BHV8Uc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "174308388529-n2s9e5gtqpqiiiu0ure72g1lonmb3qm8.apps.googleusercontent.com",
+              "client_id": "620393763559-0it08km2tog2bvetdo29ovq4verud17u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620393763559:android:b6e5cb91035c38c4ee8842",
+        "android_client_info": {
+          "package_name": "com.example.DeliveryNest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620393763559-hk2cjaj9s3ta0v5tpd39fcsj9vnu66f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.DeliveryNest",
+            "certificate_hash": "55db02898c4176d597ecf8ead54fd5bb16c38839"
+          }
+        },
+        {
+          "client_id": "620393763559-0it08km2tog2bvetdo29ovq4verud17u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXH6MfFRcujdeymAQTvZdV4mlJ3BHV8Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620393763559-0it08km2tog2bvetdo29ovq4verud17u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

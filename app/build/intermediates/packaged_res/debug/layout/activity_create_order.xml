@@ -162,7 +162,7 @@
                     android:layout_height="60dp"
                     android:layout_marginTop="0dp"
                     android:text=""
-                    android:entries="@array/Landmarks" />
+                    android:entries="@array/Landmarks"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -206,7 +206,7 @@
                     android:layout_height="60dp"
                     android:layout_marginTop="20dp"
                     android:text=""
-                    android:entries="@array/Landmarks" />
+                    android:entries="@array/Landmarks"/>
 
             </LinearLayout>
         </LinearLayout>
